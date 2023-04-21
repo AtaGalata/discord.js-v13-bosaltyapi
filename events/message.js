@@ -1,4 +1,4 @@
-const {prefix} = require("../ayarlar.json")
+const {prefix} = require("../ayarlar")
 const Discord = require("discord.js")
 
 module.exports = async message => {
